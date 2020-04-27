@@ -3,12 +3,12 @@
 ## Installation
 Standard libraries - numpy, pandas, scikit-learn, matplotlib, seaborn - are needed. In addition, use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following dependencies.
 
-'''bash
+```bash
 pip install geopandas
 pip install pyshp
 pip install descartes
 pip install geopy
-'''
+```
 
 ## Introduction
 The objective of the project is to analyse how house pricing model can be influenced by various factors such as area, locations, distance from central and others. As those features could easily be found on the online platform, with a simple pricing model that considered these determinant factors, buyers could easily get the rough estimation of the property price from the pricing model. Furthermore, our findings could be shared through various social media mediums and could provide a useful rough pricing tool for potential buyers when searching for house that is both within their means and facilities they desired. 
